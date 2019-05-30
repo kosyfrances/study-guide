@@ -57,3 +57,7 @@ The program will first randomly generate a number unknown to the user. The user 
 * [Python 3 documentation tutorial](https://docs.python.org/3/tutorial/)
 
 * [The Coder's Apprentice](http://www.spronck.net/pythonbook/index.xhtml)
+
+* [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
+* [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
