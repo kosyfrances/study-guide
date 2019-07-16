@@ -13,6 +13,8 @@
 * Coding interview preparation
 
 # Resources
+* [Git concepts](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+
 * [Hackerrank](https://www.hackerrank.com/)
 
 * [Codeforces](http://codeforces.com/contests)
