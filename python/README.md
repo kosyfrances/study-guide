@@ -83,4 +83,4 @@ The program will first randomly generate a number unknown to the user. The user 
 
 * [How to think like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
-* [Real Pyton](https://realpython.com/)
+* [Real Python](https://realpython.com/)
