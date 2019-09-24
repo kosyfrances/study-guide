@@ -66,9 +66,8 @@ The program will first randomly generate a number unknown to the user. The user 
 * While loops
 * If/Else statements
 
-### TBD
-
 # Resources
+* [Simple Programming Problems to solve](https://adriann.github.io/programming_problems.html)
 * [Automate the boring stuff](https://automatetheboringstuff.com/)
 
 * [Python 3 documentation tutorial](https://docs.python.org/3/tutorial/)
