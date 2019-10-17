@@ -83,3 +83,7 @@ The program will first randomly generate a number unknown to the user. The user 
 * [How to think like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
 * [Real Python](https://realpython.com/)
+
+* [Programming With Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
+* [ProgrammingKnowledge](https://www.youtube.com/watch?v=bZ6NL59FMoc)
