@@ -67,6 +67,9 @@ The program will first randomly generate a number unknown to the user. The user 
 * If/Else statements
 
 # Resources
+
+* [Freecodecamp Learn Python](https://www.freecodecamp.org/learn/scientific-computing-with-python)
+
 * [Simple Programming Problems to solve](https://adriann.github.io/programming_problems.html)
 * [Automate the boring stuff](https://automatetheboringstuff.com/)
 

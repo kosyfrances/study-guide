@@ -58,11 +58,10 @@ Your script will grab devopsshared_0*_file1.txt, file3.txt and file5.txt, then i
 - Bonus: have nginx forward to apache
 
 # Resources
+- [Linux System Administration Full Course (youtube video)](https://www.youtube.com/watch?v=wsh64rjnRas)
 
-- https://linuxize.com/
+- [Linux command line (video)](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
+
+- [DevOps exercises](https://github.com/kosyfrances/devops-exercises)
 
 - https://www.digitalocean.com/community/tutorials/
-
-- https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As
-
-- https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
